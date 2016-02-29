@@ -44,11 +44,20 @@ p {
   align-items: center;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  font-size: 140px;
+  font-size: 110px;
   background-color: #D8D8D8;
+  border-radius: 10px; 
 }
 
-.square:hover {
+.O {
+  background-color: #F5A9F2;
+}
+
+.X {
+  background-color: #81F7F3;
+}
+
+.square-hover:hover {
     background-color: #BDBDBD;
 }
 
