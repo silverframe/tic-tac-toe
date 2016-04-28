@@ -13,7 +13,6 @@ var winnerOrNot = false;
 squares.on('click', awesome);
 
 function winner() {
-
     var one = $("#S1").text();
     var two = $('#S2').text();
     var three = $("#S3").text();
